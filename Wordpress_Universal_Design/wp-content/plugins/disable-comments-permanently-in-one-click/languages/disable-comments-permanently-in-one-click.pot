@@ -1,0 +1,68 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: disable-comments-permanently-in-one-click\n"
+"POT-Creation-Date: 2018-09-30 12:01+0530\n"
+"PO-Revision-Date: 2018-09-04 11:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: binitaa\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class_disable-comments-permanently-in-one-click.php:124
+#: class_disable-comments-permanently-in-one-click.php:148
+msgid "Comments are closed."
+msgstr ""
+
+#: class_disable-comments-permanently-in-one-click.php:140
+msgid "Disable Comments Permanently Vowels"
+msgstr ""
+
+#: class_disable-comments-permanently-in-one-click.php:167
+#, php-format
+msgid "The <em>Disable Comments</em> plugin is active, & blocking all comments. Rate us please. if some comments are not being deleted then go to settings and save again.  <a href=\"%s\">Settings</a> for disable comments "
+msgstr ""
+
+#: class_disable-comments-permanently-in-one-click.php:197
+msgid "Settings"
+msgstr ""
+
+#: options.php:60
+msgid "Disable Comments Settings"
+msgstr ""
+
+#: options.php:69
+msgid "Disable all comments"
+msgstr ""
+
+#: options.php:77
+msgid "Dont disable"
+msgstr ""
+
+#: options.php:88
+msgid "Delete all pending comments"
+msgstr ""
+
+#: options.php:98
+msgid "Delete all comments"
+msgstr ""
+
+#: options.php:108
+msgid "Save"
+msgstr ""
+
+#: options.php:112
+msgid "Rate Us Please. Its Free and need your support"
+msgstr ""
+
+#: options.php:114
+msgid "Translate Request"
+msgstr ""
